@@ -14,11 +14,14 @@ I am a graduate student pursuing a master degree in physics at Fudan University.
 Interests
 ======
 Theoretical Nuclear Physics
+
 High Performance Computing
+
 Machine Learning
 
 Education
 ======
 Bachelor of Engineer, Fudan University, 2022
+
 Master of Physics, Fudan University, 2025 \(Expected\)
 
