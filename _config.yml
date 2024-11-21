@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Avatar.JPG"
+  avatar           : "Avatar.png"
   name             : "Ruoyu Cheng"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student \n Fudan University"
