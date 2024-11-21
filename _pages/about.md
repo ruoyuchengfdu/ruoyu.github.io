@@ -13,8 +13,8 @@ I am a graduate student pursuing a master degree in physics at Fudan University.
 
 Interests
 ======
-Theoretical Nuclear Physics   
-High Performance Computing   
+Theoretical Nuclear Physics  
+High Performance Computing  
 Machine Learning   
 
 Education
