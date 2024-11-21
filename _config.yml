@@ -21,7 +21,7 @@ repository               : "ruoyuchengfdu/ruoyu.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Avatar.png"
+  avatar           : "Avatar.JPG"
   name             : "Ruoyu Cheng"
   pronouns         : # example: "she/her"  
   bio              : "Graduate Student at Fudan University"
